@@ -14,7 +14,6 @@ I'm Luis Gonzalez<br> Student of Systems Engineering and like to contribute to o
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
 
 ### ⚙️ Frameworks & Libraries
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
 
