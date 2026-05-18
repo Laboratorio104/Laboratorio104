@@ -31,10 +31,6 @@ I'm Luis Gonzalez<br> Student of Systems Engineering and like to contribute to o
 
 
 
-### 🤖 AI / Modern Technologies
-![Llama-index](https://img.shields.io/badge/LlamaIndex-FF6F00?style=flat&logo=LlamaIndex&logoColor=white)
-![GoogleGenAI](https://img.shields.io/badge/GoogleGenAI-4285F4?style=flat&logo=Google&logoColor=white)
-
 
 [![](https://visitcount.itsvg.in/api?id=Hanseeka-Dhingana&icon=0&color=0)](https://visitcount.itsvg.in)
 </p>
