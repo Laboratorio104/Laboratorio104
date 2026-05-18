@@ -40,8 +40,6 @@ I'm Luis Gonzalez<br> Student of Systems Engineering and like to contribute to o
 [![](https://visitcount.itsvg.in/api?id=Hanseeka-Dhingana&icon=0&color=0)](https://visitcount.itsvg.in)
 </p>
 
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
 
 
 ------
